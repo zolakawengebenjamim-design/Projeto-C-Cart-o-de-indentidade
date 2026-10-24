@@ -1,0 +1,14 @@
+C:\Projeto C# Cartão de indentidade\bin\Debug\net10.0\Projeto C# Cartão de indentidade.exe
+C:\Projeto C# Cartão de indentidade\bin\Debug\net10.0\Projeto C# Cartão de indentidade.deps.json
+C:\Projeto C# Cartão de indentidade\bin\Debug\net10.0\Projeto C# Cartão de indentidade.runtimeconfig.json
+C:\Projeto C# Cartão de indentidade\bin\Debug\net10.0\Projeto C# Cartão de indentidade.dll
+C:\Projeto C# Cartão de indentidade\bin\Debug\net10.0\Projeto C# Cartão de indentidade.pdb
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\Projeto C# Cartão de indentidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\Projeto C# Cartão de indentidade.AssemblyInfoInputs.cache
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\Projeto C# Cartão de indentidade.AssemblyInfo.cs
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\Projeto C# Cartão de indentidade.csproj.CoreCompileInputs.cache
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\Projeto C# Cartão de indentidade.dll
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\refint\Projeto C# Cartão de indentidade.dll
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\Projeto C# Cartão de indentidade.pdb
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\Projeto C# Cartão de indentidade.genruntimeconfig.cache
+C:\Projeto C# Cartão de indentidade\obj\Debug\net10.0\ref\Projeto C# Cartão de indentidade.dll
