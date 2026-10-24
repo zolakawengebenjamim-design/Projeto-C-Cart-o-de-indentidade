@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto C# Cartão de indentidade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf7b5f0cec4e58d3cb03b4c744cfd5b5ada5d3ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto C# Cartão de indentidade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto C# Cartão de indentidade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
